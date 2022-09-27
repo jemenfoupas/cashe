@@ -1,6 +1,6 @@
-# Project #: Rich Boundji
+# Project #: cashe
 
-* Author: Your Name
+* Author: Rich Boundji
 * Class: CS321 Section #
 * Semester: 
 
