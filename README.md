@@ -1,4 +1,4 @@
-# Project #: Project Name
+# Project #: Rich Boundji
 
 * Author: Your Name
 * Class: CS321 Section #
